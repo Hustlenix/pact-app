@@ -1,0 +1,23 @@
+{
+  "name": "PACT",
+  "short_name": "PACT",
+  "description": "Personal Accountability Connection Tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#E8612D",
+  "background_color": "#FAFAF8",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256'%3E%3Crect x='32' y='32' width='192' height='192' fill='%23E8612D' rx='32'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256'%3E%3Crect x='48' y='48' width='160' height='160' fill='%23E8612D' rx='24'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg"
+    }
+  ]
+}
